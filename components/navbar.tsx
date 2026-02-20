@@ -8,8 +8,8 @@ import Image from 'next/image'
 import { useTheme } from 'next-themes' // Import hook tema
 
 const menuItems = [
-    { name: 'Home', href: '#home' },
-    { name: 'About', href: '#about' },
+    { name: 'Home', href: '/' },
+    { name: 'About', href: '/about' },
     { name: 'Project', href: '#project' },
     { name: 'Article', href: '#article' },
 ]
