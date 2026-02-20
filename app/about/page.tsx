@@ -104,8 +104,8 @@ export default function AboutBento() {
                                     <h4 className="font-bold text-lg">Sport Seventeen</h4>
                                     <p className="text-sm text-muted-foreground mt-2">Website Ecommerce jual beli alat olahraga.</p>
                                 </div>
-                                <div className="mt-auto bg-muted/50 p-4 border-t group-hover:bg-blue-50 transition-colors h-[45px]">
-                                    {/* Placeholder agar tingginya sama dengan card project lain */}
+                                <div className="mt-auto bg-muted/50 p-4 border-t group-hover:bg-orange-50 transition-colors">
+                                    <span className="text-[10px] font-bold uppercase tracking-widest text-blue-600">Ecommerce</span>
                                 </div>
                             </CardContent>
                         </Card>
